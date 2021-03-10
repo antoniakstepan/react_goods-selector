@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,MACE,UAAW,CACX,cACE,SAAU,CACX,gBAKC,iBAAkB","file":"main.98970bff.chunk.css","sourcesContent":["// styles go here\n.good {\n  color: blue;\n  &__active {\n    color: red;\n  }\n}\n\n.clear {\n  &__visible {\n    visibility: hidden;\n  }\n}\n"]}
